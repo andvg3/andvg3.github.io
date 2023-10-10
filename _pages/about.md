@@ -26,7 +26,7 @@ Greetings! I'm a recent graduate from Hanoi University of Science and Technology
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/grasp-anything_2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Grasp-Anything: Large-scale Grasp Dataset from Foundation Models](https://arxiv.org/abs/2309.09818)
@@ -38,7 +38,7 @@ Under Review.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><video src="images/habicrowd_2023.mp4" alt="sym" width="100%" controls></div></div>
 <div class='paper-box-text' markdown="1">
 
 [HabiCrowd: A High Performance Simulator for Crowd-Aware Visual Navigation](https://arxiv.org/abs/2303.02401)

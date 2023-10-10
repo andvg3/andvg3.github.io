@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Greetings! I'm a recent graduate from Hanoi University of Science and Technology, earning my degree in Computer Science with distinction as part of the Talented Class. I had strong background on Math and was honored to achieve a top 1% CPA in my major. Currently, I'm gaining valuable experience as an AI resident at FPT Software AIC Lab, focusing on Computer Vision, a field that truly fascinates me. Looking ahead, I'm eagerly preparing for potential PhD opportunities in 2023, driven by my passion for advancing AI and computer vision technologies.
+Greetings from An Dinh Vuong! I'm a recent graduate from Hanoi University of Science and Technology, earning my degree in Computer Science with distinction as part of the Talented Class. I had strong background on Math and was honored to achieve a top 1% CPA in my major. Currently, I'm gaining valuable experience as an AI resident at FPT Software AIC Lab, focusing on Computer Vision, a field that truly fascinates me. Looking ahead, I'm eagerly preparing for potential PhD opportunities in 2023, driven by my passion for advancing AI and computer vision technologies.
 
 
 # 🔥 News
@@ -34,11 +34,11 @@ Greetings! I'm a recent graduate from Hanoi University of Science and Technology
 **An Vuong**, Minh Nhat Vu, Hieu Le, Baoru Huang, Binh Huynh, Thieu Vo, Andreas Kugi, Anh Nguyen
 
 [**Project page**](https://grasp-anything-2023.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-Under Review.
+[Under Review]
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><video src="images/habicrowd_2023.mp4" alt="sym" width="100%" controls></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><video src="images/habicrowd_2023.mp4" alt="sym" width="100%" loop></div></div>
 <div class='paper-box-text' markdown="1">
 
 [HabiCrowd: A High Performance Simulator for Crowd-Aware Visual Navigation](https://arxiv.org/abs/2303.02401)
@@ -46,7 +46,7 @@ Under Review.
 **An Vuong**, Toan Tien Nguyen, Minh Nhat VU, Baoru Huang, Dzung Nguyen, Huynh Thi Thanh Binh, Thieu Vo, Anh Nguyen
 
 [**Project page**](https://habicrowd.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-Under Review.
+[Under Review]
 </div>
 </div>
 

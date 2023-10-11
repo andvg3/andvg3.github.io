@@ -62,8 +62,6 @@ Toan Nguyen, Minh Nhat Vu, **An Vuong**, Dzung Nguyen, Thieu Vo, Ngan Le, Anh Ng
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
 # 🎖 Honors and Awards
 - *2018* First Prize at Vietnam Mathematical Olympiad (highest score).
 - *2019* First Prize at Vietnam Mathematics Competition for University Students (highest score).

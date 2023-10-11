@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Greetings from An Dinh Vuong! I'm a recent graduate from Hanoi University of Science and Technology, earning my degree in Computer Science with distinction as part of the Talented Class. I had strong background on Math and was honored to achieve a top 1% CPA in my major. Currently, I'm gaining valuable experience as an AI resident at FPT Software AIC Lab, focusing on Computer Vision, a field that truly fascinates me. Looking ahead, I'm eagerly looking for potential PhD opportunities in 2023, particularly on researching Computer Vision. 
+Greetings from An Dinh Vuong! I'm a recent graduate from Hanoi University of Science and Technology, earning my degree in Computer Science with distinction as part of the Talented Class. I had strong background on Math and was honored to achieve a top 1% CPA in my major. Currently, I'm researching as an AI resident at FPT Software AIC Lab, focusing on Computer Vision, a field that truly fascinates me. Looking ahead, I'm eagerly looking for potential PhD opportunities in 2023, particularly on researching Computer Vision.
 
 
 # 🔥 News
@@ -26,7 +26,7 @@ Greetings from An Dinh Vuong! I'm a recent graduate from Hanoi University of Sci
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/grasp-anything_2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/grasp-anything_2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Grasp-Anything: Large-scale Grasp Dataset from Foundation Models](https://arxiv.org/abs/2309.09818)
@@ -38,7 +38,7 @@ Greetings from An Dinh Vuong! I'm a recent graduate from Hanoi University of Sci
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><video src="images/habicrowd_2023.mp4" alt="sym" width="100%" loop></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/habicrowd_2023.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [HabiCrowd: A High Performance Simulator for Crowd-Aware Visual Navigation](https://arxiv.org/abs/2303.02401)

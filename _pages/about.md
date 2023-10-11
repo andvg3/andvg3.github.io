@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Greetings from An Dinh Vuong! I'm a recent graduate from Hanoi University of Science and Technology, earning my degree in Computer Science with distinction as part of the Talented Class. I had strong background on Math and was honored to achieve a top 1% CPA in my major. Currently, I'm researching as an AI resident at FPT Software AIC Lab, focusing on Computer Vision, a field that truly fascinates me. Looking ahead, I'm eagerly looking for potential PhD opportunities in 2023, particularly on researching Computer Vision.
+Greetings from An Dinh Vuong! I'm a recent graduate from Hanoi University of Science and Technology, earning my degree in Computer Science with distinction as part of the Talented Class. I had strong background on Math and was honored to achieve a top 1% CPA in my major. Currently, I'm researching as an AI resident at FPT Software AIC Lab, focusing on Computer Vision, a field that truly fascinates me. Looking ahead, I'm eagerly looking for potential PhD opportunities in 2024, particularly on researching Computer Vision.
 
 
 # 🔥 News

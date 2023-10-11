@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "An Vuong"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/profile_image.jpeg"
   bio              : "FPT Software - AIC Lab"
   location         : "Hanoi, Vietnam"
   employer         :

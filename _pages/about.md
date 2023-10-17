@@ -36,7 +36,6 @@ Greetings from An Dinh Vuong! I'm a recent graduate from Hanoi University of Sci
 <!-- Place this tag where you want the button to render. -->
 <a class="github-button"
    href="https://github.com/andvg3/Grasp-Anything"
-   data-color-scheme="no-preference: dark; light: dark; dark: dark;"
    data-icon="octicon-star"
    data-size="large"
    data-show-count="true"
@@ -54,6 +53,14 @@ Greetings from An Dinh Vuong! I'm a recent graduate from Hanoi University of Sci
 
 **An Vuong**, Toan Tien Nguyen, Minh Nhat VU, Baoru Huang, Dzung Nguyen, Huynh Thi Thanh Binh, Thieu Vo, Anh Nguyen
 
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button"
+   href="https://github.com/habicrowd/HabiCrowd"
+   data-icon="octicon-star"
+   data-size="large"
+   data-show-count="true"
+   aria-label="Star facebook/react on GitHub">Star</a>
+
 [**Project page**](https://habicrowd.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 [Under Review]
 </div>
@@ -65,6 +72,14 @@ Greetings from An Dinh Vuong! I'm a recent graduate from Hanoi University of Sci
 [Open-Vocabulary Affordance Detection in 3D Point Clouds](https://arxiv.org/abs/2303.02401)
 
 Toan Nguyen, Minh Nhat Vu, **An Vuong**, Dzung Nguyen, Thieu Vo, Ngan Le, Anh Nguyen
+
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button"
+   href="https://github.com/Fsoft-AIC/Open-Vocabulary-Affordance-Detection-in-3D-Point-Clouds"
+   data-icon="octicon-star"
+   data-size="large"
+   data-show-count="true"
+   aria-label="Star facebook/react on GitHub">Star</a>
 
 [**Project page**](https://openad2023.github.io) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 [Best Overall and Best Student Paper award candidate]

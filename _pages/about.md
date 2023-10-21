@@ -87,11 +87,11 @@ Toan Nguyen, Minh Nhat Vu, **An Vuong**, Dzung Nguyen, Thieu Vo, Ngan Le, Anh Ng
 </div>
 
 # 🎖 Honors and Awards
-- *2018* First Prize at Vietnam Mathematical Olympiad (highest score).
-- *2019* First Prize at Vietnam Mathematics Competition for University Students (highest score).
+- *2018*: First Prize at Vietnam Mathematical Olympiad (highest score).
+- *2019*: First Prize at Vietnam Mathematics Competition for University Students (highest score).
 
 # 📖 Educations
-- *2018 - 2022* Talented Class of the Computer Science Major at Hanoi University of Science and Technology.
+- *2018 - 2022*: Talented Class of the Computer Science Major at Hanoi University of Science and Technology.
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

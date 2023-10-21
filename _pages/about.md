@@ -22,7 +22,7 @@ Greetings from An Dinh Vuong! I'm a recent graduate from Hanoi University of Sci
 
 # 🔥 News
 - *2023.09*: &nbsp;🎉🎉 Our paper "Language-driven Scene Synthesis using Multi-conditional Diffusion Model" has been accepted to NeurIPS 2023. Preprint is coming soon.
-- *2022.02*: &nbsp;🎉🎉 Our paper "Open-Vocabulary Affordance Detection in 3D Point Clouds" has been accepted to IROS 2023. 
+- *2023.07*: &nbsp;🎉🎉 Our paper "Open-Vocabulary Affordance Detection in 3D Point Clouds" has been accepted to IROS 2023. 
 
 # 📝 Publications
 

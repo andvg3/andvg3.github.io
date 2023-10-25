@@ -42,7 +42,6 @@ Greetings from An Dinh Vuong! I'm a recent graduate from Hanoi University of Sci
    aria-label="Star facebook/react on GitHub">Star</a>
 
 [**Project page**](https://lang-scene-synth.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-[Under Review]
 </div>
 </div>
 

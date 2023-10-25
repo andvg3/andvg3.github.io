@@ -26,6 +26,26 @@ Greetings from An Dinh Vuong! I'm a recent graduate from Hanoi University of Sci
 
 # 📝 Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/LSDM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ Language-driven Scene Synthesis using Multi-conditional Diffusion Model](https://arxiv.org/abs/2310.15948)
+
+**An Vuong**, Minh Nhat Vu, Toan Tien Nguyen, Baoru Huang, Dzung Nguyen, Thieu Vo, Anh Nguyen
+
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button"
+   href="https://github.com/andvg3/LSDM"
+   data-icon="octicon-star"
+   data-size="large"
+   data-show-count="true"
+   aria-label="Star facebook/react on GitHub">Star</a>
+
+[**Project page**](https://lang-scene-synth.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[Under Review]
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/grasp-anything_2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 

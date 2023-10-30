@@ -106,8 +106,9 @@ Toan Nguyen, Minh Nhat Vu, **An Vuong**, Dzung Nguyen, Thieu Vo, Ngan Le, Anh Ng
 </div>
 
 # 🎖 Honors and Awards
-- *2018*: First Prize at Vietnam Mathematical Olympiad (highest score).
+- *2023*: NeurIPS 2023 Scholar Award.
 - *2019*: First Prize at Vietnam Mathematics Competition for University Students (highest score).
+- *2018*: First Prize at Vietnam Mathematical Olympiad (highest score).
 
 # 📖 Educations
 - *2018 - 2022*: Talented Class of the Computer Science Major at Hanoi University of Science and Technology.

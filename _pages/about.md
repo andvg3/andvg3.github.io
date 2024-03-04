@@ -47,7 +47,7 @@ Greetings from An Dinh Vuong! I'm a recent graduate from Hanoi University of Sci
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/grasp-anything_2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024</div><img src='images/grasp-anything_2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Grasp-Anything: Large-scale Grasp Dataset from Foundation Models](https://arxiv.org/abs/2309.09818)
@@ -63,7 +63,6 @@ Greetings from An Dinh Vuong! I'm a recent graduate from Hanoi University of Sci
    aria-label="Star facebook/react on GitHub">Star</a>
 
 [**Project page**](https://grasp-anything-2023.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-[ICRA 2024]
 </div>
 </div>
 

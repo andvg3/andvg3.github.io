@@ -21,7 +21,7 @@ Greetings from An Dinh Vuong! I'm a recent graduate from Hanoi University of Sci
 
 
 # 🔥 News
-- *2024.03*: &nbsp;🎉🎉 Our paper has been accepted to NCAA - Q1 IF: 6.0.
+- *2024.03*: &nbsp;🎉🎉 Our paper has been accepted to Neural Computing and Applications (IF=6.0).
 - *2024.02*: &nbsp;🎉🎉 Our paper "Language-driven Grasp Detection" has been accepted to CVPR 2024.
 - *2024.01*: &nbsp;🎉🎉 Our paper "Grasp-Anything: Large-scale Grasp Dataset from Foundation Models" has been accepted to ICRA 2024.
 

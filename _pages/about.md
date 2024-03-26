@@ -30,7 +30,7 @@ Greetings from An Dinh Vuong! I'm a recent graduate from Hanoi University of Sci
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NCAA 2024</div><img src='images/ncaa_2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[An Adaptive Charging Scheme For Large-Scale Wireless Rechargeable Sensor Networks Inspired By Deep Q-Network]
+An Adaptive Charging Scheme For Large-Scale Wireless Rechargeable Sensor Networks Inspired By Deep Q-Network
 
 **An Vuong**, Tran Thi Huong, Pham Quang Nguyen Hoang, Bui Minh Quang, Ngo Phuong Trang, Huynh Thi Thanh Binh
 

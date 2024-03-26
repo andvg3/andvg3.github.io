@@ -21,10 +21,9 @@ Greetings from An Dinh Vuong! I'm a recent graduate from Hanoi University of Sci
 
 
 # 🔥 News
-- *2024.02*: &nbsp;🎉🎉 Our paper has been accepted to CVPR 2024.
+- *2024.03*: &nbsp;🎉🎉 Our paper has been accepted to NCAA - Q1 IF: 6.0.
+- *2024.02*: &nbsp;🎉🎉 Our paper "Language-driven Grasp Detection" has been accepted to CVPR 2024.
 - *2024.01*: &nbsp;🎉🎉 Our paper "Grasp-Anything: Large-scale Grasp Dataset from Foundation Models" has been accepted to ICRA 2024.
-- *2023.09*: &nbsp;🎉🎉 Our paper "Language-driven Scene Synthesis using Multi-conditional Diffusion Model" has been accepted to NeurIPS 2023.
-- *2023.07*: &nbsp;🎉🎉 Our paper "Open-Vocabulary Affordance Detection in 3D Point Clouds" has been accepted to IROS 2023. 
 
 # 📝 Publications
 

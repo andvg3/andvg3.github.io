@@ -42,7 +42,7 @@ Greetings from An Dinh Vuong! I'm a recent graduate from Hanoi University of Sci
    data-show-count="true"
    aria-label="Star facebook/react on GitHub">Star</a>
 
-[**Project page**](https://grasp-anything-2023.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project page**](https://airvlab.github.io/grasp-anything/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 

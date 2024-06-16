@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Greetings from An Dinh Vuong! I'm a recent graduate from Hanoi University of Science and Technology, earning my degree in Computer Science with distinction as part of the Talented Class. I had strong background on Math and was honored to achieve a top 1% CPA in my major. Currently, I'm researching as an AI resident at FPT Software AIC Lab under the supervision of [Dr. Anh Nguyen](https://cgi.csc.liv.ac.uk/~anguyen/), focusing on Computer Vision. Looking ahead, I'm eagerly interested in potential PhD opportunities in 2024, with a keen goal of diving deeper into Computer Vision research.
+Greetings from An Dinh Vuong! Currently, I'm researching as an AI resident at FPT Software AIC Lab under the supervision of [Dr. Anh Nguyen](https://cgi.csc.liv.ac.uk/~anguyen/), focusing on Computer Vision.
 
 
 # 🔥 News
@@ -26,6 +26,25 @@ Greetings from An Dinh Vuong! I'm a recent graduate from Hanoi University of Sci
 - *2024.01*: &nbsp;🎉🎉 Our paper "Grasp-Anything: Large-scale Grasp Dataset from Foundation Models" has been accepted to ICRA 2024.
 
 # 📝 Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/cvpr_2024_.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Language-driven Grasp Detection](https://openaccess.thecvf.com/content/CVPR2024/html/Vuong_Language-driven_Grasp_Detection_CVPR_2024_paper.html)
+
+**An Vuong**, Minh Nhat Vu, Baoru Huang, Nghia Nguyen, Hieu Le, Thieu Vo, Anh Nguyen
+
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button"
+   href="https://github.com/andvg3/LGD"
+   data-icon="octicon-star"
+   data-size="large"
+   data-show-count="true"
+   aria-label="Star facebook/react on GitHub">Star</a>
+
+[**Project page**](https://airvlab.github.io/grasp-anything/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024</div><img src='images/grasp-anything_2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -115,9 +134,8 @@ Toan Nguyen, Minh Nhat Vu, **An Vuong**, Dzung Nguyen, Thieu Vo, Ngan Le, Anh Ng
 # 📖 Educations
 - *2018 - 2022*: Talented Class of the Computer Science Major at Hanoi University of Science and Technology.
 
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+<!-- # 🛠️ Services
+- *2024.06*: Reviewer at MFM-EAI workshop (ICML 2024). -->
 
-# 💻 Internships
+<!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->

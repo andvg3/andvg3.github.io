@@ -43,7 +43,6 @@ Greetings from An Dinh Vuong, an incoming PhD student at MBZUAI specializing in 
    aria-label="Star facebook/react on GitHub">Star</a>
 
 [**Project page**](https://habicrowd.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-[IROS 2024]
 </div>
 </div>
 

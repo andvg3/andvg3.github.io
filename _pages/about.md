@@ -20,7 +20,8 @@ redirect_from:
 Greetings from An Dinh Vuong, an incoming PhD student at MBZUAI specializing in Computer Vision and Robotics. I will be working under the guidance of [Prof. Ian Reid](https://cs.adelaide.edu.au/~ianr/), and I previously had the privilege of being advised by [Dr. Anh Nguyen](https://cgi.csc.liv.ac.uk/~anguyen/). My research focuses on applying deep learning techniques to advance robotic applications.
 
 # 🔥 News
-- *2024.06*: &nbsp;🎉🎉 Our paper "HabiCrowd: A High Performance Simulator for Crowd-Aware Visual Navigation" has been accepted to IROS 2024.
+- *2024.07*: &nbsp;🎉🎉 Our paper has been accepted to ECCV 2024.
+- *2024.06*: &nbsp;🎉🎉 Three papers have been accepted to IROS 2024.
 - *2024.03*: &nbsp;🎉🎉 Our paper has been accepted to Neural Computing and Applications (IF=6.0).
 - *2024.02*: &nbsp;🎉🎉 Our paper "Language-driven Grasp Detection" has been accepted to CVPR 2024.
 - *2024.01*: &nbsp;🎉🎉 Our paper "Grasp-Anything: Large-scale Grasp Dataset from Foundation Models" has been accepted to ICRA 2024.

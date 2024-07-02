@@ -21,10 +21,7 @@ Greetings from An Dinh Vuong, an incoming PhD student at MBZUAI specializing in 
 
 # 🔥 News
 - *2024.07*: &nbsp;🎉🎉 Our paper has been accepted to ECCV 2024.
-- *2024.06*: &nbsp;🎉🎉 Three papers have been accepted to IROS 2024.
-- *2024.03*: &nbsp;🎉🎉 Our paper has been accepted to Neural Computing and Applications (IF=6.0).
-- *2024.02*: &nbsp;🎉🎉 Our paper "Language-driven Grasp Detection" has been accepted to CVPR 2024.
-- *2024.01*: &nbsp;🎉🎉 Our paper "Grasp-Anything: Large-scale Grasp Dataset from Foundation Models" has been accepted to ICRA 2024.
+- *2024.06*: &nbsp;🎉🎉 Our three papers have been accepted to IROS 2024.
 
 # 📝 Publications
 

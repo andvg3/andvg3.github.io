@@ -30,7 +30,7 @@ Greetings from An Dinh Vuong, an incoming PhD student at MBZUAI specializing in 
 
 [HabiCrowd: A High Performance Simulator for Crowd-Aware Visual Navigation](https://arxiv.org/abs/2303.02401)
 
-**An Vuong**, Toan Tien Nguyen, Minh Nhat VU, Baoru Huang, Dzung Nguyen, Huynh Thi Thanh Binh, Thieu Vo, Anh Nguyen
+**An Vuong**, Toan Tien Nguyen, Minh Nhat Vu, Baoru Huang, Dzung Nguyen, Huynh Thi Thanh Binh, Thieu Vo, Anh Nguyen
 
 <!-- Place this tag where you want the button to render. -->
 <a class="github-button"

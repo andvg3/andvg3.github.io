@@ -47,7 +47,7 @@ Greetings from An Dinh Vuong, an incoming PhD student at MBZUAI specializing in 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/cvpr_2024_.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Language-driven Grasp Detection](https://openaccess.thecvf.com/content/CVPR2024/html/Vuong_Language-driven_Grasp_Detection_CVPR_2024_paper.html)
+[Language-driven Grasp Detection](https://arxiv.org/abs/2406.09489)
 
 **An Vuong**, Minh Nhat Vu, Baoru Huang, Nghia Nguyen, Hieu Le, Thieu Vo, Anh Nguyen
 

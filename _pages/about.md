@@ -28,7 +28,7 @@ Greetings from An Dinh Vuong, an incoming PhD student at MBZUAI specializing in 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2024</div><img src='images/habicrowd_2023.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[HabiCrowd: A High Performance Simulator for Crowd-Aware Visual Navigation](https://arxiv.org/abs/2303.02401)
+[HabiCrowd: A High Performance Simulator for Crowd-Aware Visual Navigation](https://arxiv.org/abs/2306.11377)
 
 **An Vuong**, Toan Tien Nguyen, Minh Nhat Vu, Baoru Huang, Dzung Nguyen, Huynh Thi Thanh Binh, Thieu Vo, Anh Nguyen
 

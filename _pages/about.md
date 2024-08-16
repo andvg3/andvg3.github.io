@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Greetings from An Dinh Vuong, an incoming PhD student at MBZUAI specializing in Computer Vision and Robotics. I will be working under the guidance of [Prof. Ian Reid](https://cs.adelaide.edu.au/~ianr/), and I previously had the privilege of being advised by [Dr. Anh Nguyen](https://cgi.csc.liv.ac.uk/~anguyen/). My research focuses on applying deep learning techniques to advance robotic applications.
+Greetings from An Dinh Vuong, a PhD student at MBZUAI specializing in Computer Vision and Robotics. I will be working under the guidance of [Prof. Ian Reid](https://cs.adelaide.edu.au/~ianr/), and I previously had the privilege of being advised by [Dr. Anh Nguyen](https://cgi.csc.liv.ac.uk/~anguyen/). My research focuses on applying deep learning techniques to advance robotic applications.
 
 # 🔥 News
 - *2024.07*: &nbsp;🎉🎉 Our paper has been accepted to ECCV 2024.

@@ -17,13 +17,53 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Greetings from An Dinh Vuong, a PhD student at MBZUAI specializing in Computer Vision and Robotics. I will be working under the guidance of [Prof. Ian Reid](https://cs.adelaide.edu.au/~ianr/), and I previously had the privilege of being advised by [Dr. Anh Nguyen](https://cgi.csc.liv.ac.uk/~anguyen/). My research focuses on applying deep learning techniques to advance robotic applications.
+Greetings from An Dinh Vuong, a PhD student at MBZUAI specializing in Computer Vision and Robotics. I am working under the guidance of [Prof. Ian Reid](https://cs.adelaide.edu.au/~ianr/), and I previously had the privilege of being advised by [Dr. Anh Nguyen](https://cgi.csc.liv.ac.uk/~anguyen/). My research focuses on applying deep learning techniques to realize robotic applications.
 
 # 🔥 News
 - *2024.07*: &nbsp;🎉🎉 Our paper has been accepted to ECCV 2024.
 - *2024.06*: &nbsp;🎉🎉 Our three papers have been accepted to IROS 2024.
 
 # 📝 Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2024</div><img src='images/ECCV_2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Language-Driven 6-DoF Grasp Detection Using Negative Prompt Guidance](https://arxiv.org/abs/2407.13842)
+
+Toan Nguyen, Minh Nhat Vu, Baoru Huang, **An Vuong**, Quan Vuong, Ngan Le, Thieu Vo, Anh Nguyen
+
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button"
+   href="https://github.com/Fsoft-AIC/Language-Driven-6-DoF-Grasp-Detection-Using-Negative-Prompt-Guidance"
+   data-icon="octicon-star"
+   data-size="large"
+   data-show-count="true"
+   aria-label="Star facebook/react on GitHub">Star</a>
+
+[**Project page**](https://airvlab.github.io/grasp-anything/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2024</div><img src='images/IROS_2024' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Lightweight Language-driven Grasp Detection using Conditional Consistency Model](https://arxiv.org/abs/2407.17967)
+
+Nghia Nguyen, Minh Nhat Vu, Baoru Huang, **An Vuong**, Ngan Le, Thieu Vo, Anh Nguyen
+
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button"
+   href="https://github.com/Fsoft-AIC/Lightweight-Language-driven-Grasp-Detection"
+   data-icon="octicon-star"
+   data-size="large"
+   data-show-count="true"
+   aria-label="Star facebook/react on GitHub">Star</a>
+
+[**Project page**](https://airvlab.github.io/grasp-anything/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2024</div><img src='images/habicrowd_2023.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

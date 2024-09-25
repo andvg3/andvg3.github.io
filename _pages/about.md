@@ -25,7 +25,7 @@ Greetings from An Dinh Vuong, a PhD student at MBZUAI specializing in Computer V
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2024</div><img src='images/ECCV_2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/ECCV_2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Language-Driven 6-DoF Grasp Detection Using Negative Prompt Guidance](https://arxiv.org/abs/2407.13842)
@@ -45,7 +45,7 @@ Toan Nguyen, Minh Nhat Vu, Baoru Huang, **An Vuong**, Quan Vuong, Ngan Le, Thieu
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/IROS_2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2024</div><img src='images/IROS_2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Lightweight Language-driven Grasp Detection using Conditional Consistency Model](https://arxiv.org/abs/2407.17967)

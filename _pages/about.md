@@ -17,13 +17,32 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Greetings from An Dinh Vuong, a PhD student at MBZUAI specializing in Computer Vision and Robotics. I am working under the guidance of [Prof. Ian Reid](https://cs.adelaide.edu.au/~ianr/), and I previously had the privilege of being advised by [Dr. Anh Nguyen](https://cgi.csc.liv.ac.uk/~anguyen/). My research focuses on applying deep learning techniques to realize robotic applications.
+Greetings from An Dinh Vuong, a PhD student at MBZUAI specializing in Computer Vision and Robotics. I am working under the guidance of [Prof. Ian Reid](https://cs.adelaide.edu.au/~ianr/).
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉🎉 Our paper has been accepted to ECCV 2024.
-- *2024.06*: &nbsp;🎉🎉 Our three papers have been accepted to IROS 2024.
+- *2025.06*: &nbsp;🎉🎉 Our two papers have been accepted to IROS 2025.
 
 # 📝 Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2025</div><img src='images/IROS_2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Action Tokenizer Matters in In-Context Imitation Learning](https://arxiv.org/abs/2503.01206)
+
+**An Vuong**, Minh Nhat Vu, Dong An, Ian Reid
+
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button"
+   href="https://github.com/andvg3/LipVQ-VAE"
+   data-icon="octicon-star"
+   data-size="large"
+   data-show-count="true"
+   aria-label="Star facebook/react on GitHub">Star</a>
+
+[**Project page**](https://action-tokenizer-matters.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/ECCV_2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

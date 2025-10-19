@@ -186,7 +186,7 @@ Toan Nguyen, Minh Nhat Vu, **An Vuong**, Dzung Nguyen, Thieu Vo, Ngan Le, Anh Ng
 - *2023*: NeurIPS 2023 Scholar Award.
 
 # 🛠️ Services
-- *2024.06*: Reviewer for the MFM-EAI Workshop at ICML 2024.
+Reviewer for the MFM-EAI@ICML'24, IROS'25, NeurIPS'25.
 
 # 📖 Educations
 - *2018 - 2022*: Talented Class of the Computer Science Major at Hanoi University of Science and Technology.

@@ -20,7 +20,7 @@ redirect_from:
 Greetings from An Dinh Vuong, a PhD student at MBZUAI specializing in Computer Vision and Robotics. I am working under the guidance of [Prof. Ian Reid](https://cs.adelaide.edu.au/~ianr/).
 
 # 🔥 News
-- *2025.06*: &nbsp;🎉🎉 Our two papers have been accepted to IROS 2025.
+- *2026.06*: &nbsp;🎉🎉 One have been accepted to IROS 2026. Preprint will be available soon.
 
 # 📝 Publications
 
